@@ -1,6 +1,5 @@
-<!-- ========================= HEADER ========================= --> <div align="center">
-👋 Hi, I'm Hammad
-💻 B.Tech Computer Science Student | Frontend Developer | C++ Programmer
+<h1 align="center">Hey👋, I'm Mohd Hammad</h1>
+<h3 align="center">💻 B.Tech Computer Science Student | Frontend Developer | C++ Programmer</h3>
 <p> <a href="https://github.com/hammadprojects"> <img src="https://komarev.com/ghpvc/?username=hammadprojects&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/> </a> </p> <p> <a href="https://github.com/hammadprojects"> <img src="https://img.shields.io/github/followers/hammadprojects?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/> </a> <a href="https://github.com/hammadprojects?tab=repositories"> <img src="https://img.shields.io/github/stars/hammadprojects?affiliations=OWNER&style=for-the-badge&color=yellow" alt="GitHub Stars"/> </a> </p> </div>
 👨‍💻 About Me
 
