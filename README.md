@@ -24,26 +24,7 @@
 
 ---
 
-## 👨‍💻 About Me
 
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    string name = "Mohd Hammad";
-    string degree = "B.Tech CSE";
-    string language = "C++";
-    string goal = "Become a better developer";
-
-    cout << "Hello, World! 🚀" << endl;
-    cout << name << " | " << degree << endl;
-    cout << "Learning: " << language << endl;
-    cout << "Goal: " << goal << endl;
-
-    return 0;
-}
-```
 
 - 🎓 B.Tech Computer Science Student
 - 💻 Currently working on C++ Programming
